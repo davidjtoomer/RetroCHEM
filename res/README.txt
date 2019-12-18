@@ -1,5 +1,5 @@
 DAVID TOOMER
-SMILES PARSING AND RETROSYNTHESIS PREDICTION
+RETROCHEM
 DECEMBER 2019
 --------------------------------------------
 The code relies on one library, Armadillo, for fast linear algebra calculations. In order to install Armadillo and run it in Qt Creator, follow the instructions below.
