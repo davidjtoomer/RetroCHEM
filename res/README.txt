@@ -1,13 +1,10 @@
-DAVID TOOMER
 RETROCHEM
-DECEMBER 2019
 --------------------------------------------
-The code relies on one library, Armadillo, for fast linear algebra calculations. In order to install Armadillo and run it in Qt Creator, follow the instructions below.
+The code relies on Armadillo for fast linear algebra calculations. In order to install Armadillo and run it in Qt Creator, follow the instructions below.
 
 ---------------------
 1. DOWNLOAD ARMADILLO
-Go to SourceForge and download Armadillo from this link:
-	http://arma.sourceforge.net/
+Go to SourceForge and download Armadillo from this link: http://arma.sourceforge.net/
 Click on the "download lates version" option towards the bottom of the page and the download should begin.
 
 -------------------------------
